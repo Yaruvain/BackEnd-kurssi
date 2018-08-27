@@ -1,0 +1,11 @@
+D:\BackEnd-kurssi\ass1\bin\Debug\netcoreapp2.1\ass1.deps.json
+D:\BackEnd-kurssi\ass1\bin\Debug\netcoreapp2.1\ass1.runtimeconfig.json
+D:\BackEnd-kurssi\ass1\bin\Debug\netcoreapp2.1\ass1.runtimeconfig.dev.json
+D:\BackEnd-kurssi\ass1\bin\Debug\netcoreapp2.1\ass1.dll
+D:\BackEnd-kurssi\ass1\bin\Debug\netcoreapp2.1\ass1.pdb
+D:\BackEnd-kurssi\ass1\obj\Debug\netcoreapp2.1\ass1.csprojAssemblyReference.cache
+D:\BackEnd-kurssi\ass1\obj\Debug\netcoreapp2.1\ass1.csproj.CoreCompileInputs.cache
+D:\BackEnd-kurssi\ass1\obj\Debug\netcoreapp2.1\ass1.AssemblyInfoInputs.cache
+D:\BackEnd-kurssi\ass1\obj\Debug\netcoreapp2.1\ass1.AssemblyInfo.cs
+D:\BackEnd-kurssi\ass1\obj\Debug\netcoreapp2.1\ass1.dll
+D:\BackEnd-kurssi\ass1\obj\Debug\netcoreapp2.1\ass1.pdb
