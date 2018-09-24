@@ -9,14 +9,22 @@ namespace web_api
     {
         private List<Player> players = new List<Player>();
 
+<<<<<<< HEAD
         public async Task<Player> CreatePlayer(Player player)
+=======
+        public async Task<Player> Create(Player player)
+>>>>>>> master
         {
             await Task.CompletedTask;
             players.Add(player);
             return player;
         }
 
+<<<<<<< HEAD
         public async Task<Player> DeletePlayer(Guid id)
+=======
+        public async Task<Player> Delete(Guid id)
+>>>>>>> master
         {
             await Task.CompletedTask;
 
@@ -33,25 +41,41 @@ namespace web_api
             }
         }
 
+<<<<<<< HEAD
         public async Task<Player> GetPlayer(Guid id)
+=======
+        public async Task<Player> Get(Guid id)
+>>>>>>> master
         {
             await Task.CompletedTask;
             return GetPlayerById(id);
         }
 
+<<<<<<< HEAD
         public async Task<Player[]> GetAllPlayers()
+=======
+        public async Task<Player[]> GetAll()
+>>>>>>> master
         {
             await Task.CompletedTask;
             return players.ToArray();
         }
 
+<<<<<<< HEAD
         public async Task<Player> ModifyPlayer(Guid id, ModifiedPlayer player)
+=======
+        public async Task<Player> Modify(Guid id, ModifiedPlayer player)
+>>>>>>> master
         {
             await Task.CompletedTask;
             Player found = GetPlayerById(id);
             if (found != null)
             {
+<<<<<<< HEAD
                 found.Modify(player);
+=======
+                found.Score = player.Score;
+>>>>>>> master
             }
             return found;
         }
@@ -68,6 +92,7 @@ namespace web_api
 
             return null;
         }
+<<<<<<< HEAD
 
         public async Task<Item> CreateItem(Guid playerId, Item item)
         {
@@ -154,5 +179,7 @@ namespace web_api
 
             return null;
         }
+=======
+>>>>>>> master
     }
 }

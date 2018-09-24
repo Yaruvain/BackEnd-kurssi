@@ -27,6 +27,7 @@ namespace web_api
         {
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
+<<<<<<< HEAD
             services.AddSingleton<IRepository, MongoDbRepository>();
             services.AddSingleton<PlayersProcessor>();
             services.AddSingleton<ItemsProcessor>();
@@ -34,6 +35,10 @@ namespace web_api
             services.AddMvc(options => {
                 options.Filters.Add(new LowLevelPlayerExceptionFilterAttribute()); // custom filter - applies to all controllers and their actions
             });
+=======
+            services.AddSingleton<IRepository, InMemoryRepository>();
+            services.AddSingleton<PlayersProcessor>();
+>>>>>>> master
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
