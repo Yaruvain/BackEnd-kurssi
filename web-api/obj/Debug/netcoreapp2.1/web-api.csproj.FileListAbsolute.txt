@@ -1,0 +1,14 @@
+D:\BackEnd-kurssi\web-api\bin\Debug\netcoreapp2.1\web-api.deps.json
+D:\BackEnd-kurssi\web-api\bin\Debug\netcoreapp2.1\web-api.runtimeconfig.json
+D:\BackEnd-kurssi\web-api\bin\Debug\netcoreapp2.1\web-api.runtimeconfig.dev.json
+D:\BackEnd-kurssi\web-api\bin\Debug\netcoreapp2.1\web-api.dll
+D:\BackEnd-kurssi\web-api\bin\Debug\netcoreapp2.1\web-api.pdb
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.csprojAssemblyReference.cache
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.csproj.CoreCompileInputs.cache
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.RazorAssemblyInfo.cache
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.RazorAssemblyInfo.cs
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.AssemblyInfoInputs.cache
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.AssemblyInfo.cs
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.RazorTargetAssemblyInfo.cache
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.dll
+D:\BackEnd-kurssi\web-api\obj\Debug\netcoreapp2.1\web-api.pdb
